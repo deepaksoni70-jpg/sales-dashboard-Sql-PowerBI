@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice
+P001,Smartphone,Electronics,51189
+P002,Laptop,Electronics,15427
+P003,Headphones,Electronics,28854
+P004,Smart Watch,Electronics,56667
+P005,Tablet,Electronics,9455
+P006,Mixer Grinder,Home Appliances,6059
+P007,Air Fryer,Home Appliances,10164
+P008,Microwave,Home Appliances,8440
+P009,Vacuum Cleaner,Home Appliances,7247
+P010,T-Shirt,Apparel,1815
+P011,Jeans,Apparel,2085
+P012,Jacket,Apparel,1643
+P013,Sneakers,Apparel,1187
+P014,Rice 5kg,Groceries,465
+P015,Cooking Oil 1L,Groceries,71
+P016,Snacks Combo,Groceries,574
+P017,Tea 500g,Groceries,326
+P018,Office Chair,Furniture,12532
+P019,Study Table,Furniture,8382
+P020,Bookshelf,Furniture,6635
