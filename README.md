@@ -42,7 +42,7 @@ Open `dashboard/index.html` directly in a browser (or host the `dashboard/` fold
 Load `sql/01_schema.sql` and `sql/02_queries_and_kpis.sql` into any SQL engine (SQLite, PostgreSQL, MySQL — minor syntax tweaks for date functions may be needed outside SQLite) against the 3 CSVs to reproduce every KPI.
 
 ## Dashboard preview
-![Dashboard overview](images/dashboard_overview.png)
+![Dashboard overview]https://deepaksoni70-jpg.github.io/sales-dashboard-Sql-PowerBI/
 
 
 The `dashboard/index.html` (Chart.js) and `images/dashboard_overview.png` in this repo are **preview/reference
